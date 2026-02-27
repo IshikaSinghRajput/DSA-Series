@@ -9,7 +9,8 @@ public class LCM {
     }
 
     public static int lcm(int a, int b){
-        return (a / gcd(a, b)) * b;
+        // return (a / gcd(a, b)) * b;
+        return a * b / gcd(a, b);
     }
 
     public static void main(String[] args) {

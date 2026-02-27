@@ -31,7 +31,8 @@ public class FindFrequencyOfElement {
         int[] arr = { 1, 1, 2, 2, 2, 2, 3 };
         int target = 2;
 
-       // System.out.println(frequency(arr, target));
+       
+        System.out.println(frequency(arr, target));
         System.out.println(maxFeq(arr));
     }
 }

@@ -23,3 +23,4 @@ public class ValidMountainArray {
         System.out.println(mountainArray(arr));
     }
 }
+ 
