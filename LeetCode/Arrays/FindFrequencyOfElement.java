@@ -36,3 +36,4 @@ public class FindFrequencyOfElement {
         System.out.println(maxFeq(arr));
     }
 }
+ 

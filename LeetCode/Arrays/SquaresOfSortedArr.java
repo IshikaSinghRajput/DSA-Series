@@ -8,7 +8,7 @@ public class SquaresOfSortedArr {
         for(int i = 0; i < arr.length; i++){
             res[idx++] = arr[i] * arr[i];
         }
-        Arrays.sort(res);
+        //Arrays.sort(res);
         return res;
     }
     public static void main(String[] args) {

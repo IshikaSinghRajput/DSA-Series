@@ -24,7 +24,7 @@ public class IntersectionOfTwoArrays {
     }
 
     public static void main(String[] args) {
-        int[] arr = { 1, 2, 2, 1 };
+        int[] arr = { 1, 2, 2, 1 };                                       
         int[] prr = { 2, 2 };
 
         int[] result = intersection(arr, prr);
